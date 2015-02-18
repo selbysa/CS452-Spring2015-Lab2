@@ -1,1 +1,5 @@
-name, date, description
+Sarah Selby, 2/17/15
+
+To make the shape move, everytime one of the set key was pressed the vertice would update and re-render at the new position.
+This was done bay adding or subtracting 0.1 to either the X vertices or the Y vertices. Each vertice was given it's own
+specific color to create the desired effect.
